@@ -1,0 +1,5 @@
+# Helix uses only the Python standard library — no external runtime
+# dependencies are required. This file is kept for convention / CI setup.
+#
+# Optional, for running the test suite with pytest instead of unittest:
+pytest>=7.0
