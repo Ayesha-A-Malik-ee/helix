@@ -12,6 +12,8 @@ read, tested, and reused independently of any UI — as a CLI telemetry
 stream, a backend for a different frontend, or just a reference for the
 math.
 
+![Helix demo](helix.gif)
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for
